@@ -14,7 +14,7 @@ To get started you need to add the plugin to your maven build and specify the ma
             <plugin>
                 <groupId>org.buildobjects</groupId>
                 <artifactId>j-maven-plugin</artifactId>
-                <version>VERSION</version>
+                <version>0.1</version>
                 <executions>
                     <execution>
                         <phase>generate-resources</phase>
